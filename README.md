@@ -18,6 +18,7 @@ This repository contains the codes & dataset for the paper:
 ## Related work
 
 [deep-learning-from-scratch](https://github.com/oreilly-japan/deep-learning-from-scratch)
+
 [MaxFunVal](https://github.com/huangyebiaoke/MaxFunVal)
 
 ## License
