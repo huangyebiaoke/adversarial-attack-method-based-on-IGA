@@ -3,7 +3,8 @@
 This repository contains the codes for the paper:
 **Dingming Yang, Yanrong Cui & Hongqiang Yuan. (2021). Neural Network Adversarial Attack Method Based on Improved Genetic Algorithm.** [[arxiv](https://arxiv.org/abs/2110.01818)] [[code](https://github.com/huangyebiaoke/adversarial-attack-method-based-on-IGA)]
 
-![1](./images/1.drawio.svg)
+<div align=center><img width="400" height="400" src="./images/1.drawio.svg"/></div>
+<!-- ![1](./images/1.drawio.svg) -->
 
 ## MNIST dataset analysis
 
