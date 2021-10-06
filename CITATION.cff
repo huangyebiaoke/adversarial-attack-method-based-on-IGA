@@ -3,7 +3,7 @@ message: "If you use the code or images provided in this repository, please cite
 authors:
   - family-names: Yang
     given-names: Dingming
-    orcid: https://doi.org/10.1080/08839514.2021.1975391
+    orcid: https://arxiv.org/abs/2110.01818
 title: "Neural Network Adversarial Attack Method Based on Improved Genetic Algorithm"
 version: 1.0.0
 date-released: 2021-10-05
