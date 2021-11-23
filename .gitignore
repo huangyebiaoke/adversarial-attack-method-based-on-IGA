@@ -1,0 +1,8 @@
+**/__pycache__
+# **/data
+# **/images
+code_of_adversarial_attack/exp_images
+code_of_adversarial_attack/exp_images_deep_net
+comparison_of_optimization_algorithms/images/**
+!comparison_of_optimization_algorithms/images/optimized_efficiency_diagram.drawio.svg
+paper
