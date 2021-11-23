@@ -11,17 +11,15 @@ This repository contains the codes and experimental data for the paper:
 ![image-20211002151004742](./images/image-20211002151004742.png)
 
 ## Improved Genetic Algorithm
-### SGA, SGA with A1, SGA with A1+A2
-![image-20211002151055638](./images/image-20211002151055638.png)
-
 ### SGA, PSO, GWO, IGA
 ![image-20211123104618.jpg](./images/image-20211123104618.jpg)
 
+### SGA, SGA with A1, SGA with A1+A2
+![image-20211002151055638](./images/image-20211002151055638.png)
+
 ### The calculation method of convergence efficiency
 ![](./comparison_of_optimization_algorithms/images/optimized_efficiency_diagram.drawio.svg)
-$$
-C E=\frac{\operatorname{dist}\left(start\_point, object\right)-C P}{ t_{iteration} }
-$$
+<div align=center><img width="200" src="./images/CE.png"/></div>
 
 ## Result
 
