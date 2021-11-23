@@ -19,7 +19,7 @@ This repository contains the codes and experimental data for the paper:
 
 ### The calculation method of convergence efficiency
 ![](./comparison_of_optimization_algorithms/images/optimized_efficiency_diagram.drawio.svg)
-<div align=left><img width="200" src="./images/CE.png"/></div>
+<div align=left><img width="300" src="./images/CE.png"/></div>
 
 ## Result
 
