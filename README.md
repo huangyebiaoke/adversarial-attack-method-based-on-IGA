@@ -3,27 +3,24 @@
 This repository contains the codes and experimental data for the paper:
 **Dingming Yang, Zeyu Yu, Hongqiang Yuan & Yanrong Cui. (2021). An Improved Genetic Algorithm and Its Application in Neural Network Adversarial Attack.** [[arxiv](https://arxiv.org/abs/2110.01818)] [[code](https://github.com/huangyebiaoke/adversarial-attack-method-based-on-IGA)]
 
-<div align=center><img width="400" height="400" src="./images/1.drawio.svg"/></div>
-<!-- ![1](./images/1.drawio.svg) -->
+<div align=center><img width="450" src="./images/1.drawio.svg"/></div>
 
 ## MNIST dataset analysis
-
-![image-20211002151004742](./images/image-20211002151004742.png)
+<div align="center"><img width="80%" src="./images/image-20211002151004742.png"/></div>
 
 ## Improved Genetic Algorithm
 ### SGA, PSO, GWO, IGA
-![image-20211123104618.jpg](./images/image-20211123104618.jpg)
+<div align="center"><img width="80%" src="./images/image-20211123104618.jpg"/></div>
 
 ### SGA, SGA with A1, SGA with A1+A2
-![image-20211002151055638](./images/image-20211002151055638.png)
+<div align="center"><img width="80%" src="./images/image-20211002151055638.png"/></div>
 
 ### The calculation method of convergence efficiency
-![](./comparison_of_optimization_algorithms/images/optimized_efficiency_diagram.drawio.svg)
-<div align=left><img width="300" src="./images/CE.png"/></div>
+<div align="center"><img width="300" src="./images/CE.svg"/></div>
+<div align="center"><img width="80%" src="./comparison_of_optimization_algorithms/images/optimized_efficiency_diagram.drawio.svg"/></div>
 
 ## Result
-
-![image-20211002151128047](./images/image-20211002151128047.png)
+<div align="center"><img width="80%" src="./images/image-20211002151128047.png"/></div>
 
 ## Citation
 
