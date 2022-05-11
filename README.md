@@ -1,7 +1,7 @@
 # Adversarial Attack Method Based on IGA
 
 This repository contains the codes and experimental data for the paper:
-**Dingming Yang, Zeyu Yu, Hongqiang Yuan & Yanrong Cui. (2021). An Improved Genetic Algorithm and Its Application in Neural Network Adversarial Attack.** [[arxiv](https://arxiv.org/abs/2110.01818)] [[code](https://github.com/huangyebiaoke/adversarial-attack-method-based-on-IGA)]
+**Dingming Yang, Zeyu Yu, Hongqiang Yuan & Yanrong Cui. (2021). An Improved Genetic Algorithm and Its Application in Neural Network Adversarial Attack.**[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267970)] [[arxiv](https://arxiv.org/abs/2110.01818)] [[code](https://github.com/huangyebiaoke/adversarial-attack-method-based-on-IGA)]
 
 <div align=center><img width="450" src="./images/1.drawio.svg"/></div>
 
